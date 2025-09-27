@@ -8,5 +8,3 @@ python3 project1.py
 ### Windows
 python project1.py
 
-### Online Compiler
-https://www.mycompiler.io/ko/new/python
