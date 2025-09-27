@@ -25,7 +25,7 @@ def get_time(n, reps=999):
     return times[len(times)//2]   
 
 # n values to test
-data_list = [10, 100, 1000, 10000, 100000]
+data_list = [10, 100, 1000, 10000, 100000, 1000000, 10000000]
 
 for n in data_list:
     print(f"{n},{get_time(n)}")
